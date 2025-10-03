@@ -5,6 +5,9 @@ This Dashboard provides an analysis of the Hotel Management Dashboard for Airbnb
 
 - **Tool Used:** Microsoft Excel
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nomayer-masum/Hotel-Management-Dashboard-Airbnb/main/Hotel%20Management%20Dashboard%20-%20Airbnb.png" alt="Hotel Management Dashboard - Airbnb" width="800"/>
+</p>
 
 
 
